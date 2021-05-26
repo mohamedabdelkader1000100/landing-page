@@ -27,7 +27,7 @@ For specific, detailed instructions, look at the project instructions in the Uda
 #### [8] - a scroll to top button on the page that’s only visible when the user scrolls below the fold of the page.
 #### [9] - you can add new section in page.
 ### Final Output
-![Output](https://github.com/mohamedabdelkader1000100/landing-page/main/landing-page.png)
+![Output](https://github.com/mohamedabdelkader1000100/landing-page/blob/main/landing-page.png)
 
 
 
